@@ -1,0 +1,60 @@
+body {
+    background-color: #15202b
+}
+
+/* CONST */
+
+.color-white {
+    color: #fff !important;
+}
+
+/* CONST */
+
+.mainPageLeftArea ion-icon {
+    color: #fff !important;
+}
+
+.mainFieldRow {
+    height: 100vh;
+}
+
+.mainTwitterBackgroundLeftArea {
+    background-color: #74cafe;
+}
+
+.loginPageInput {
+    background-color: transparent !important;
+    padding: 10px 5px;
+    border: 1px solid #1da0f238;
+    color: #fff;
+}
+
+.loginPageInput:hover {
+    border: 1px solid #1da1f2;
+}
+
+.loginPageInput:focus {
+    color: #fff;
+}
+
+.loginPageSelect {
+    background-color: transparent !important;
+    padding: 10px 5px;
+    border: 1px solid #1da0f238;
+    color: #333;
+}
+
+.loginPageSelect:hover {
+    border: 1px solid #1da1f2;
+}
+
+.loginPageSelect:focus {
+    color: #333;
+}
+.registerModal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: red;
+}
