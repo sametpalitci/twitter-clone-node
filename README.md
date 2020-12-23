@@ -1,4 +1,4 @@
-# twitter-clone-mern
+# twitter-clone-node
 MYSQL + EXPRESS + REACT + NODE
 # FrontEnd
 - [x] Login Page
